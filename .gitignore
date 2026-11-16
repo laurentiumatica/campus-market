@@ -1,0 +1,10 @@
+﻿# IDE
+.idea/
+.vs/
+
+# Build
+bin/
+obj/
+
+# DB
+*.db
